@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Autonomous-Penetration-Testing-Appsec/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Autonomous-Penetration-Testing-Appsec?style=flat-square&logo=github&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Autonomous-Penetration-Testing-Appsec/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Autonomous-Penetration-Testing-Appsec?style=flat-square&logo=github&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Autonomous-Penetration-Testing-Appsec/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Autonomous-Penetration-Testing-Appsec?style=flat-square&logo=github&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Autonomous-Penetration-Testing-Appsec/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -73,64 +73,64 @@ Below is a breakdown of enterprise hosted solutions, ranked in descending order 
 
 All projects below are open-source and sorted in **descending order by GitHub stargazers**. Each project features an official live badge linking directly to its stargazer community.
 
-1. **[usestrix/strix](https://github.com/usestrix/strix)** [![GitHub Stars](https://img.shields.io/github/stars/usestrix/strix?style=social&color=white)](https://github.com/usestrix/strix/stargazers)  
+1. **[usestrix/strix](https://github.com/usestrix/strix)** [![GitHub_Stars](https://img.shields.io/github/stars/usestrix/strix?style=social&color=white)](https://github.com/usestrix/strix/stargazers)  
    🤖 Autonomous open-source AI penetration testing agents that dynamically execute code, crawl web applications, identify zero-days/flaws, and autonomously construct verifiable exploit proof-of-concepts (PoCs).
 
-2. **[KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon)** [![GitHub Stars](https://img.shields.io/github/stars/KeygraphHQ/shannon?style=social&color=white)](https://github.com/KeygraphHQ/shannon/stargazers)  
+2. **[KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon)** [![GitHub_Stars](https://img.shields.io/github/stars/KeygraphHQ/shannon?style=social&color=white)](https://github.com/KeygraphHQ/shannon/stargazers)  
    🧠 Fully autonomous open-source AI penetration tester for web applications and APIs. Runs simultaneous source-code analysis and live dynamic testing to uncover exploitable logic and AppSec flaws.
 
-3. **[mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy)** [![GitHub Stars](https://img.shields.io/github/stars/mitmproxy/mitmproxy?style=social&color=white)](https://github.com/mitmproxy/mitmproxy/stargazers)  
+3. **[mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy)** [![GitHub_Stars](https://img.shields.io/github/stars/mitmproxy/mitmproxy?style=social&color=white)](https://github.com/mitmproxy/mitmproxy/stargazers)  
    🔄 Interactive TLS-capable intercepting HTTP/HTTPS proxy with versatile Python scripting APIs for automated traffic manipulation, API fuzzing, and penetration testing orchestration.
 
-4. **[aquasecurity/trivy](https://github.com/aquasecurity/trivy)** [![GitHub Stars](https://img.shields.io/github/stars/aquasecurity/trivy?style=social&color=white)](https://github.com/aquasecurity/trivy/stargazers)  
+4. **[aquasecurity/trivy](https://github.com/aquasecurity/trivy)** [![GitHub_Stars](https://img.shields.io/github/stars/aquasecurity/trivy?style=social&color=white)](https://github.com/aquasecurity/trivy/stargazers)  
    📦 Comprehensive open-source security scanner discovering vulnerabilities, misconfigurations, secrets, and SBOM exposures in containers, Kubernetes, code repositories, and clouds.
 
-5. **[sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap)** [![GitHub Stars](https://img.shields.io/github/stars/sqlmapproject/sqlmap?style=social&color=white)](https://github.com/sqlmapproject/sqlmap/stargazers)  
+5. **[sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap)** [![GitHub_Stars](https://img.shields.io/github/stars/sqlmapproject/sqlmap?style=social&color=white)](https://github.com/sqlmapproject/sqlmap/stargazers)  
    💉 Premier open-source penetration testing tool that automates the detection and exploitation of SQL injection flaws and full database server takeovers.
 
-6. **[projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei)** [![GitHub Stars](https://img.shields.io/github/stars/projectdiscovery/nuclei?style=social&color=white)](https://github.com/projectdiscovery/nuclei/stargazers)  
+6. **[projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei)** [![GitHub_Stars](https://img.shields.io/github/stars/projectdiscovery/nuclei?style=social&color=white)](https://github.com/projectdiscovery/nuclei/stargazers)  
    ⚡ Ultra-fast, highly customizable vulnerability scanner driven by a massive community-driven YAML template engine for detecting CVEs, exposures, and zero-days across web and cloud targets.
 
-7. **[gitleaks/gitleaks](https://github.com/gitleaks/gitleaks)** [![GitHub Stars](https://img.shields.io/github/stars/gitleaks/gitleaks?style=social&color=white)](https://github.com/gitleaks/gitleaks/stargazers)  
+7. **[gitleaks/gitleaks](https://github.com/gitleaks/gitleaks)** [![GitHub_Stars](https://img.shields.io/github/stars/gitleaks/gitleaks?style=social&color=white)](https://github.com/gitleaks/gitleaks/stargazers)  
    🔑 High-performance SAST tool and pre-commit scanner designed to detect and prevent hardcoded secrets, API tokens, and private keys in Git repositories.
 
-8. **[semgrep/semgrep](https://github.com/semgrep/semgrep)** [![GitHub Stars](https://img.shields.io/github/stars/semgrep/semgrep?style=social&color=white)](https://github.com/semgrep/semgrep/stargazers)  
+8. **[semgrep/semgrep](https://github.com/semgrep/semgrep)** [![GitHub_Stars](https://img.shields.io/github/stars/semgrep/semgrep?style=social&color=white)](https://github.com/semgrep/semgrep/stargazers)  
    🔎 Fast, lightweight Static Application Security Testing (SAST) engine that enforces custom security rules and pattern matches across complex codebases directly within CI/CD PR checks.
 
-9. **[GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT)** [![GitHub Stars](https://img.shields.io/github/stars/GreyDGL/PentestGPT?style=social&color=white)](https://github.com/GreyDGL/PentestGPT/stargazers)  
+9. **[GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT)** [![GitHub_Stars](https://img.shields.io/github/stars/GreyDGL/PentestGPT?style=social&color=white)](https://github.com/GreyDGL/PentestGPT/stargazers)  
    🕹️ LLM-powered penetration testing agentic framework designed to guide ethical hackers and red-team operators through interactive reconnaissance, vulnerability discovery, and exploit construction.
 
-10. **[zaproxy/zaproxy](https://github.com/zaproxy/zaproxy)** [![GitHub Stars](https://img.shields.io/github/stars/zaproxy/zaproxy?style=social&color=white)](https://github.com/zaproxy/zaproxy/stargazers)  
+10. **[zaproxy/zaproxy](https://github.com/zaproxy/zaproxy)** [![GitHub_Stars](https://img.shields.io/github/stars/zaproxy/zaproxy?style=social&color=white)](https://github.com/zaproxy/zaproxy/stargazers)  
     🌐 OWASP ZAP (ZED Attack Proxy) — the world's most widely used open-source web application security scanner and DAST framework for automated DevSecOps pipelines.
 
-11. **[OWASP/Amass](https://github.com/OWASP/Amass)** [![GitHub Stars](https://img.shields.io/github/stars/OWASP/Amass?style=social&color=white)](https://github.com/OWASP/Amass/stargazers)  
+11. **[OWASP/Amass](https://github.com/OWASP/Amass)** [![GitHub_Stars](https://img.shields.io/github/stars/OWASP/Amass?style=social&color=white)](https://github.com/OWASP/Amass/stargazers)  
     🗺️ In-depth attack surface mapping, external asset discovery, and network reconnaissance tool using open-source information gathering and active graph database techniques.
 
-12. **[redcanaryco/atomic-red-team](https://github.com/redcanaryco/atomic-red-team)** [![GitHub Stars](https://img.shields.io/github/stars/redcanaryco/atomic-red-team?style=social&color=white)](https://github.com/redcanaryco/atomic-red-team/stargazers)  
+12. **[redcanaryco/atomic-red-team](https://github.com/redcanaryco/atomic-red-team)** [![GitHub_Stars](https://img.shields.io/github/stars/redcanaryco/atomic-red-team?style=social&color=white)](https://github.com/redcanaryco/atomic-red-team/stargazers)  
     💥 Extensive open-source library of simple, automated detection tests mapped directly to the MITRE ATT&CK framework for validating defensive controls, EDR, and SIEM rules.
 
-13. **[aliasrobotics/cai](https://github.com/aliasrobotics/cai)** [![GitHub Stars](https://img.shields.io/github/stars/aliasrobotics/cai?style=social&color=white)](https://github.com/aliasrobotics/cai/stargazers)  
+13. **[aliasrobotics/cai](https://github.com/aliasrobotics/cai)** [![GitHub_Stars](https://img.shields.io/github/stars/aliasrobotics/cai?style=social&color=white)](https://github.com/aliasrobotics/cai/stargazers)  
     🤖 Modular AI security framework empowering autonomous agents with native Kali Linux tooling, terminal execution, and multi-agent coordination for offensive and defensive testing.
 
-14. **[securego/gosec](https://github.com/securego/gosec)** [![GitHub Stars](https://img.shields.io/github/stars/securego/gosec?style=social&color=white)](https://github.com/securego/gosec/stargazers)  
+14. **[securego/gosec](https://github.com/securego/gosec)** [![GitHub_Stars](https://img.shields.io/github/stars/securego/gosec?style=social&color=white)](https://github.com/securego/gosec/stargazers)  
     🔍 Security code checker and SAST scanner inspecting Go AST source trees to identify common AppSec vulnerabilities, memory issues, and crypto misconfigurations.
 
-15. **[mitre/caldera](https://github.com/mitre/caldera)** [![GitHub Stars](https://img.shields.io/github/stars/mitre/caldera?style=social&color=white)](https://github.com/mitre/caldera/stargazers)  
+15. **[mitre/caldera](https://github.com/mitre/caldera)** [![GitHub_Stars](https://img.shields.io/github/stars/mitre/caldera?style=social&color=white)](https://github.com/mitre/caldera/stargazers)  
     🎯 Flagship open-source cyber adversary emulation and Breach & Attack Simulation (BAS) system built on the MITRE ATT&CK matrix for continuous automated blue-team validation.
 
-16. **[hahwul/dalfox](https://github.com/hahwul/dalfox)** [![GitHub Stars](https://img.shields.io/github/stars/hahwul/dalfox?style=social&color=white)](https://github.com/hahwul/dalfox/stargazers)  
+16. **[hahwul/dalfox](https://github.com/hahwul/dalfox)** [![GitHub_Stars](https://img.shields.io/github/stars/hahwul/dalfox?style=social&color=white)](https://github.com/hahwul/dalfox/stargazers)  
     🦊 Powerful, blazing-fast open-source parameter analysis and Cross-Site Scripting (XSS) scanner with DOM verification and advanced payload generation engines.
 
-17. **[DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo)** [![GitHub Stars](https://img.shields.io/github/stars/DefectDojo/django-DefectDojo?style=social&color=white)](https://github.com/DefectDojo/django-DefectDojo/stargazers)  
+17. **[DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo)** [![GitHub_Stars](https://img.shields.io/github/stars/DefectDojo/django-DefectDojo?style=social&color=white)](https://github.com/DefectDojo/django-DefectDojo/stargazers)  
     📊 Open-source DevSecOps orchestration, vulnerability management, and correlation platform connecting SAST, DAST, SCA, and pentesting findings into unified dashboards.
 
-18. **[schemathesis/schemathesis](https://github.com/schemathesis/schemathesis)** [![GitHub Stars](https://img.shields.io/github/stars/schemathesis/schemathesis?style=social&color=white)](https://github.com/schemathesis/schemathesis/stargazers)  
+18. **[schemathesis/schemathesis](https://github.com/schemathesis/schemathesis)** [![GitHub_Stars](https://img.shields.io/github/stars/schemathesis/schemathesis?style=social&color=white)](https://github.com/schemathesis/schemathesis/stargazers)  
     📑 Modern specification-based (OpenAPI/GraphQL) property testing and autonomous API fuzzing tool catching crashes, broken auth, and logic bugs before production.
 
-19. **[t3l3machus/hoaxshell](https://github.com/t3l3machus/hoaxshell)** [![GitHub Stars](https://img.shields.io/github/stars/t3l3machus/hoaxshell?style=social&color=white)](https://github.com/t3l3machus/hoaxshell/stargazers)  
+19. **[t3l3machus/hoaxshell](https://github.com/t3l3machus/hoaxshell)** [![GitHub_Stars](https://img.shields.io/github/stars/t3l3machus/hoaxshell?style=social&color=white)](https://github.com/t3l3machus/hoaxshell/stargazers)  
     🐚 Advanced payload generation and reverse-shell handling platform designed for testing EDR evasion and perimeter application filters.
 
-20. **[ghostsecurity/reaper](https://github.com/ghostsecurity/reaper)** [![GitHub Stars](https://img.shields.io/github/stars/ghostsecurity/reaper?style=social&color=white)](https://github.com/ghostsecurity/reaper/stargazers)  
+20. **[ghostsecurity/reaper](https://github.com/ghostsecurity/reaper)** [![GitHub_Stars](https://img.shields.io/github/stars/ghostsecurity/reaper?style=social&color=white)](https://github.com/ghostsecurity/reaper/stargazers)  
     👻 Modern validation proxy and AppSec testing tool integrating active exploration with automated exposure detection for web applications and APIs.
 
 ---
