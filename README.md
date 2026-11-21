@@ -30,79 +30,31 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saashosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Support & Share](#support--share)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The global penetration testing and Breach and Attack Simulation (BAS) market is valued at approximately $3.5B to $4.2B (2025–2026), expanding at an estimated 14% to 28% CAGR as regulatory mandates (e.g., DORA, PCI DSS) accelerate the shift from periodic audits to continuous autonomous validation. The sector is moderately to highly fragmented rather than winner-take-all, characterized by a diverse spectrum of pure-play autonomous AI validation startups, established enterprise BAS platforms, crowdsourced bug-bounty networks, and traditional consultancies transitioning to PTaaS models.
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Horizon3.ai NodeZero](https://horizon3.ai)**  
-
-  Autonomous penetration testing platform that continuously discovers attack paths, safely exploits vulnerabilities, and verifies remediation across internal, external, and cloud environments.
-
-
-
-- **[Pentera](https://pentera.io)**  
-
-  Automated security validation platform performing continuous, agentless real-world attack emulation across web applications, internal networks, and cloud workloads.
-
-
-
-- **[SafeBreach](https://safebreach.com)**  
-
-  Enterprise Breach and Attack Simulation (BAS) platform executing thousands of continuously updated attack methods to validate application, endpoint, and network defenses.
-
-
-
-- **[AttackIQ](https://attackiq.com)**  
-
-  MITRE ATT&CK-aligned security optimization and Breach and Attack Simulation platform for testing defensive detection, WAF/EDR rules, and incident response readiness.
-
-
-
-- **[Cymulate](https://cymulate.com)**  
-
-  Cloud-based exposure management and continuous automated red teaming platform validating web applications, APIs, email security, and cloud attack surfaces.
-
-
-
-- **[Picus Security](https://picussecurity.com)**  
-
-  Continuous security validation and threat-centric exposure management platform pairing automated attack simulation with actionable WAF/SIEM/EDR mitigation rules.
-
-
-
-- **[Cobalt.io](https://cobalt.io)**  
-
-  Pentest as a Service (PtaaS) platform combining on-demand vetted AppSec researchers with centralized vulnerability management, SLAs, and CI/CD integrations.
-
-
-
-- **[BreachLock](https://breachlock.com)**  
-
-  Cloud-native Penetration Testing as a Service (PTaaS) platform uniting AI-assisted automated scanning with human-led application and API penetration testing.
-
-
-
-- **[NetSPI](https://netspi.com)**  
-
-  Proactive enterprise security platform delivering Attack Surface Management (ASM), Penetration Testing as a Service (PTaaS), and Breach and Attack Simulation.
-
-
-
-- **[HackerOne](https://hackerone.com)**  
-
-  Leading crowdsourced security, bug bounty, and AI-assisted code/AppSec vulnerability discovery platform connecting organizations with global ethical hackers.
+| Company / Platform | Company Scale (Valuation / Revenue) | Description | Starting Pricing | Free Tier / Free Trial Limits |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Horizon3.ai NodeZero](https://horizon3.ai)** | Valuation: ~$2B+ (Series E) / ARR: >$100M | Autonomous penetration testing platform that continuously discovers attack paths, safely exploits vulnerabilities, and verifies remediation across internal, external, and cloud environments. | $15/asset/test (Flex) or $50/asset/year (Core, ~$18,600/yr min contract) | 14-day guided proof of value / 30-day trial (scoped to 1 internal pentest run & select remediation checks) |
+| **[Pentera](https://pentera.io)** | Valuation: $1B+ (Unicorn) / ARR: ~$117M | Automated security validation platform performing continuous, agentless real-world attack emulation across web applications, internal networks, and cloud workloads. | Starts at ~$35,000/year (enterprise contracts typically $90k–$120k/yr) | No permanent free tier; guided 1-to-2 week Proof of Concept (PoC) restricted to specific network subnet |
+| **[HackerOne](https://hackerone.com)** | Valuation: ~$635M–$829M / Revenue: >$100M+ ARR | Leading crowdsourced security, bug bounty, and AI-assisted code/AppSec vulnerability discovery platform connecting organizations with global ethical hackers. | $8,000/year (Essential VDP platform fee) or $25,000/year (Private Bounty platform fee + 5% bounty fee) | Free forever plan: Essential VDP & Community Edition for OSS projects (unlimited vulnerability intake, safe harbor, no platform fee, exclude cash bounties) |
+| **[Cymulate](https://cymulate.com)** | Valuation: $500M (Series D) / ARR: ~$30M–$50M | Cloud-based exposure management and continuous automated red teaming platform validating web applications, APIs, email security, and cloud attack surfaces. | Starts at ~$1,500/feature/month (~$18,000/year; full validation bundles start ~$91,000/yr) | 14-day free trial (full-access evaluation across core attack vectors like email, web gateway, and phishing simulations) |
+| **[NetSPI](https://netspi.com)** | Revenue: >$200M combined (with Synack) / $500M KKR funding | Proactive enterprise security platform delivering Attack Surface Management (ASM), Penetration Testing as a Service (PTaaS), and Breach and Attack Simulation. | Custom enterprise quotes (~$30,000–$50,000/year minimum engagement scale) | No self-serve free tier; sales-guided 14-day scoping assessment / demo sandbox with restricted asset scans |
+| **[AttackIQ](https://attackiq.com)** | Valuation: ~$215.5M / Revenue: ~$36M | MITRE ATT&CK-aligned security optimization and Breach and Attack Simulation platform for testing defensive detection, WAF/EDR rules, and incident response readiness. | £4,725/unit/year (~$6,000/yr for AttackIQ Flex modular bundles) | Free forever educational access via AttackIQ Academy (labs & certifications); guided 14-day scoped PoC for platform |
+| **[Cobalt.io](https://cobalt.io)** | Raised: >$35.5M+ (Highland Europe) / ARR: ~$51M–$130M | Pentest as a Service (PtaaS) platform combining on-demand vetted AppSec researchers with centralized vulnerability management, SLAs, and CI/CD integrations. | $3,500/test (Autonomous Pentest) or credit subscription (~$1,500–$2,000/credit bundle, typically $25k+/yr) | No self-serve free tier; custom guided demo / sample report assessment only (no automated trial execution) |
+| **[Picus Security](https://picussecurity.com)** | Raised: >$80M+ ($45M Series C) / ARR: ~$25M–$50M | Continuous security validation and threat-centric exposure management platform pairing automated attack simulation with actionable WAF/SIEM/EDR mitigation rules. | Starts at ~$15,000–$25,000/year based on deployed attack simulation modules | 14-day free trial (restricted deployment to single host agent/specific security controls) |
+| **[SafeBreach](https://safebreach.com)** | Raised: $106.5M (Series D) / ARR: ~$21M–$33M | Enterprise Breach and Attack Simulation (BAS) platform executing thousands of continuously updated attack methods to validate application, endpoint, and network defenses. | Starts at ~$30,000–$50,000/year based on IP/agent deployment scope | No public free tier; guided 14-to-30 day Proof of Concept (PoC) restricted to designated target endpoints/sandbox |
+| **[BreachLock](https://breachlock.com)** | Raised: ~$3.1M / ARR: ~$15M–$17.3M | Cloud-native Penetration Testing as a Service (PTaaS) platform uniting AI-assisted automated scanning with human-led application and API penetration testing. | $2,500/test (1-Time Security Validation) or $5,000/year (Annual Security Validation) | No self-serve free tier; guided interactive demo & limited sample asset scan (1 target asset/domain) |
 
 
 
